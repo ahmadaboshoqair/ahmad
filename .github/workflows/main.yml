@@ -23,10 +23,10 @@ STEP:10 Password:P@ssw0rd!
 
 
 
-name: CI
+name:CI
 
 
-on: [push, workflow_dispatch]
+on:[push, workflow_dispatch]
 
 
 jobs:
